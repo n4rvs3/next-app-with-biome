@@ -9,9 +9,9 @@
     "lint": "yarn biome check --write ./src"
   },
   "dependencies": {
-    "next": "^14.2.8",
-    "react": "^18",
-    "react-dom": "^18"
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.8.3",
